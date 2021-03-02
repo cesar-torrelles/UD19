@@ -1,4 +1,4 @@
-# Unidad 19 - swing / Awt
+# Unidad 19 - SWING / Awt
 Conexion Java-MySQL
 
 ### Equipo de desarrollo:
